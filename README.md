@@ -1,7 +1,3 @@
 # Hamster003.github.io
 
-I'm a student in highschool. 
-
-
-This is my very simple website. 
-I have a few projects but not a lot
+You have fallen victim to an internal phishing campaign. This a test to try and improve the identification of phising emails.
